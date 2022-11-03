@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/77892c20-a0c8-4433-b490-d37fffd66075/AppServices/subscriptions/77892c20-a0c8-4433-b490-d37fffd66075/resourceGroups/demo/providers/Microsoft.Web/sites/angui",
+    "appService.deploySubpath": "."
+}
